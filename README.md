@@ -1,4 +1,4 @@
-# app-dev | Task Performance
+# app-dev - Task Performance
 ## My first repository
 > Name: Kyle Castillo BSIT301A 
 1. Age: 20 years old 
